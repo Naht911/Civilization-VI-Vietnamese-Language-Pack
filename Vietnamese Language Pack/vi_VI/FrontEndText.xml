@@ -10,7 +10,7 @@
 			<Text>...</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_YES_BUTTON">
-			<Text>Có</Text>
+			<Text>Vâng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NO_BUTTON">
 			<Text>Không</Text>
@@ -26,10 +26,10 @@
 		</Replace>
 		<!-- Front End Popups -->
 		<Replace Language='en_US' Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
-			<Text>Không thể xác định khả năng của thiết bị đồ họa.[NEWLINE][NEWLINE]Làm ơn thiết lập thủ công.</Text>
+			<Text>Không thể xác định khả năng của thiết bị đồ họa.[NEWLINE][NEWLINE]Hãy thiết lập thủ công.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
-			<Text>Driver đồ họa quá cũ.[NEWLINE][NEWLINE]Làm ơn cập nhật.</Text>
+			<Text>Driver đồ họa quá cũ.[NEWLINE][NEWLINE]Hãy cập nhật.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
 			<Text>Không xuất hiện lại.</Text>
